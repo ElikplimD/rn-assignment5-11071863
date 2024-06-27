@@ -4,16 +4,19 @@
 
 ## 11071863
 ## DCIT 202_Mobile App Development 
-##Assignment 5
+## Assignment 5
 
 
 ## Screenshots of Apps
 
 ![Settings in Light Mode](./assets/settings_light.png)
 
+
 ![Settings in dark mode](./assets/settings_dark.png)
 
+
 ![Homescreen in light mode](./assets/homescreen1.png)
+
 
 ![Homescreen in dark mode](./assets/home_darkmode.png)
 
@@ -28,6 +31,7 @@
 
 
 ## App Overview:
+This app was built in expo snack
 
 The app is a mobile application developed using React Native, which is a framework for creating cross-platform mobile apps. The app features two primary screens: a Home screen and a Settings screen.
 
